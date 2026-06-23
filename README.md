@@ -1,6 +1,3 @@
-# DalveenLeandor.github.io
-Web
-index.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
